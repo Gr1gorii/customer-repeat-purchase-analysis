@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "checks": [
+    "all repeat window cells",
+    "all cohort cells",
+    "all country/month sales cells"
+  ],
+  "orders": 18532,
+  "customers": 4338
+}

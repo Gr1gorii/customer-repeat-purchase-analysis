@@ -1,0 +1,16 @@
+[project]
+name = "retail-cohort-analytics"
+version = "0.1.0"
+description = "Auditable SQL cohort and repeat-purchase analysis of UCI Online Retail"
+requires-python = ">=3.11"
+dependencies = ["duckdb==1.4.1", "pandas==2.3.3", "openpyxl==3.1.5"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]

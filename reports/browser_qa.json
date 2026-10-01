@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "browser": "Playwright Chromium 140 headless",
+  "checks": [
+    "default real metrics, monthly chart and incomplete-month cells",
+    "public name and original chart/heatmap colors",
+    "README screenshots contain application content only",
+    "country/cohort filtering and repeated selection are stable",
+    "empty filter combination has explicit state and null rates",
+    "three repeated resets restore the baseline",
+    "quality panel and supporting artifact links",
+    "390px mobile layout has no page-level horizontal overflow",
+    "missing data presents a readable recovery instruction"
+  ],
+  "javascript_errors": [],
+  "screenshots": [
+    "dashboard-overview.png",
+    "cohort-activity.png",
+    "qa-desktop.png",
+    "qa-mobile.png",
+    "qa-empty.png"
+  ],
+  "host_browser_tool": "unavailable: node_repl js not exposed"
+}

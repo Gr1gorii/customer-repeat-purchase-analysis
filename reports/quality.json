@@ -1,0 +1,19 @@
+{
+  "raw_rows": 541909,
+  "exact_duplicates_removed": 5268,
+  "retained_rows": 536641,
+  "invalid_rows": 2,
+  "missing_customer_rows_raw": 135080,
+  "missing_customer_rows_retained": 135037,
+  "missing_description_rows_raw": 1454,
+  "zero_price_rows": 2510,
+  "negative_quantity_rows": 10587,
+  "positive_cancelled_rows": 0,
+  "negative_non_cancelled_rows": 1336,
+  "source_start": "2010-12-01 08:26:00",
+  "source_end": "2011-12-09 12:50:00",
+  "retained_unpriced_or_invalid_rows": 2512,
+  "duplicate_signed_value_removed": 21740.98,
+  "invoice_date_conflicts": 42,
+  "invoice_customer_conflicts": 0
+}

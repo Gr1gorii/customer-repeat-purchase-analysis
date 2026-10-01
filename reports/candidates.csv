@@ -1,0 +1,72 @@
+country,line_type,candidate_status,negative_rows,negative_value
+Australia,cancellation,multiple_candidates,6,115.51
+Australia,cancellation,no_candidate,4,290.48
+Australia,cancellation,one_candidate,64,1038.05
+Austria,cancellation,no_candidate,2,41.41
+Austria,cancellation,one_candidate,1,2.95
+Bahrain,cancellation,missing_customer,1,205.74
+Belgium,cancellation,multiple_candidates,4,22.0
+Belgium,cancellation,no_candidate,3,18.03
+Belgium,cancellation,one_candidate,31,245.35
+Channel Islands,cancellation,multiple_candidates,2,5.05
+Channel Islands,cancellation,no_candidate,1,4.25
+Channel Islands,cancellation,one_candidate,7,354.85
+Cyprus,cancellation,multiple_candidates,3,207.2
+Cyprus,cancellation,no_candidate,2,363.19
+Cyprus,cancellation,one_candidate,3,73.7
+Czech Republic,cancellation,no_candidate,1,4.0
+Czech Republic,cancellation,one_candidate,4,115.02
+Denmark,cancellation,multiple_candidates,1,2.9
+Denmark,cancellation,one_candidate,8,184.3
+EIRE,cancellation,missing_customer,54,4886.46
+EIRE,cancellation,multiple_candidates,123,5362.77
+EIRE,cancellation,no_candidate,23,5266.16
+EIRE,cancellation,one_candidate,101,4631.75
+European Community,cancellation,one_candidate,1,8.5
+Finland,cancellation,multiple_candidates,4,164.95
+Finland,cancellation,one_candidate,6,54.39
+France,cancellation,multiple_candidates,37,522.46
+France,cancellation,no_candidate,15,8569.9
+France,cancellation,one_candidate,96,3215.9
+Germany,cancellation,multiple_candidates,138,1778.37
+Germany,cancellation,no_candidate,65,1275.81
+Germany,cancellation,one_candidate,250,4114.75
+Greece,cancellation,multiple_candidates,1,50.0
+Hong Kong,cancellation,missing_customer,4,5574.76
+Israel,cancellation,no_candidate,2,227.44
+Italy,cancellation,multiple_candidates,17,178.0
+Italy,cancellation,no_candidate,7,130.33
+Italy,cancellation,one_candidate,21,284.4
+Japan,cancellation,multiple_candidates,8,64.34
+Japan,cancellation,no_candidate,4,82.92
+Japan,cancellation,one_candidate,25,1928.49
+Malta,cancellation,multiple_candidates,6,57.0
+Malta,cancellation,one_candidate,9,163.12
+Netherlands,cancellation,multiple_candidates,2,360.0
+Netherlands,cancellation,no_candidate,2,312.0
+Netherlands,cancellation,one_candidate,4,112.8
+Norway,cancellation,multiple_candidates,1,19.8
+Norway,cancellation,no_candidate,3,840.3
+Norway,cancellation,one_candidate,10,141.88
+Poland,cancellation,multiple_candidates,5,33.7
+Poland,cancellation,one_candidate,6,87.81
+Portugal,cancellation,multiple_candidates,2,1799.7
+Portugal,cancellation,no_candidate,4,1602.24
+Portugal,cancellation,one_candidate,12,978.14
+Saudi Arabia,cancellation,one_candidate,1,14.75
+Singapore,cancellation,no_candidate,2,6068.06
+Singapore,cancellation,one_candidate,5,6090.84
+Spain,cancellation,multiple_candidates,7,75.84
+Spain,cancellation,no_candidate,5,2902.12
+Spain,cancellation,one_candidate,36,3824.57
+Sweden,cancellation,multiple_candidates,2,260.0
+Sweden,cancellation,no_candidate,1,1188.0
+Sweden,cancellation,one_candidate,8,334.42
+Switzerland,cancellation,multiple_candidates,7,174.6
+Switzerland,cancellation,no_candidate,2,34.8
+Switzerland,cancellation,one_candidate,26,495.15
+USA,cancellation,one_candidate,112,1849.47
+United Kingdom,cancellation,missing_customer,320,274623.3
+United Kingdom,cancellation,multiple_candidates,1796,42907.08
+United Kingdom,cancellation,no_candidate,1580,123151.34
+United Kingdom,cancellation,one_candidate,4125,371810.07

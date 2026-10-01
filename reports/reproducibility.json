@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "matching_artifacts": 7,
+  "sha256": {
+    "reports/cohorts.csv": "6b15ff843f1357bcbb2b37c8016cd36c07c3b1f85ec0ef14f3d953aea18e0fd0",
+    "reports/candidates.csv": "656f9e691a45f0d943372a3bd50334d8272fb7c5fb7ed2596d69791e93b99dbf",
+    "reports/repeat.csv": "4fa2cf9016b290ba42b8caa93df5c6e9a886ed436065caa8db330b622e6de504",
+    "reports/quality_by_month_country.csv": "7cc8831a94029e37c7da2dbbda5592a800c442c50f1944da8e56d501227c51f8",
+    "reports/sales.csv": "05d2224a82c30e147a15fb15b7f71e75e677c2deb3d651063d3583febbfea956",
+    "reports/results.json": "4e0968b77a09f087db690d54c9637523d549777fa7cfb67fdb63299a0d899327",
+    "web/data.json": "ba8f8b0c52d87e3defbacb58e95dc2e867b9e7fda70d0cc459ac098d311ee9c8"
+  }
+}
