@@ -116,3 +116,14 @@ PY
 Chen, D. (2015). **Online Retail [Dataset]**. UCI Machine Learning Repository. [DOI: 10.24432/C5BW33](https://doi.org/10.24432/C5BW33). [Primary dataset page](https://archive.ics.uci.edu/dataset/352/online%2Bretail). Data license: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). This project modifies the original through normalization, deduplication and aggregation. Preserve attribution and indicate modifications if sharing derived data. UCI describes a UK retailer with many wholesalers; findings do not generalize to all retail.
 
 This is a standalone local project. Its setup and analysis commands do not push, deploy or publish anything.
+
+## Project code license
+
+Copyright (c) 2026 Gr1gorii.
+
+The original project code authored by Gr1gorii is licensed under the
+GNU General Public License version 3 only (`GPL-3.0-only`).
+See [LICENSE](LICENSE) for the full terms.
+
+Third-party code, datasets, and materials retain their respective licenses
+and attribution requirements. This license does not replace those terms.
