@@ -1,5 +1,7 @@
 [English](README.md) | [Italiano](README.it.md)
 
+Live demo: [customer-repeat-purchase-analysis](https://gr1gorii.github.io/customer-repeat-purchase-analysis/)
+
 # customer-repeat-purchase-analysis
 
 An inspectable Python + SQL analysis of repeat purchases, customer cohorts, cancellations and recorded net sales using the public UCI Online Retail workbook. DuckDB stores the cleaned ledger locally. A small static dashboard explores reviewed results without a frontend build or external services.

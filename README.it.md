@@ -1,5 +1,7 @@
 [English](README.md) | [Italiano](README.it.md)
 
+Demo online: [customer-repeat-purchase-analysis](https://gr1gorii.github.io/customer-repeat-purchase-analysis/)
+
 # customer-repeat-purchase-analysis
 
 Un'analisi in Python e SQL degli acquisti ripetuti, delle coorti di clienti, degli annullamenti e delle vendite nette registrate nel dataset pubblico UCI Online Retail. Il codice è pensato per essere facile da leggere e verificare. DuckDB conserva localmente i dati puliti, mentre una piccola dashboard statica permette di esplorare i risultati senza compilare un frontend né usare servizi esterni.
